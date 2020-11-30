@@ -1,0 +1,13 @@
+==================================================================
+Congratulations! Installed successfully!
+==================================================================
+外网面板地址: http://98.126.31.110:8888/0a84b877
+内网面板地址: http://98.126.31.110:8888/0a84b877
+username: 9antb7co
+password: 4e6b9fbd
+If you cannot access the panel,
+release the following panel port [8888] in the security group
+若无法访问面板，请检查防火墙/安全组是否有放行面板[8888]端口
+==================================================================
+Time consumed: 1 Minute!
+[root@hostabaae937bd ~]# 
